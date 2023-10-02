@@ -1,12 +1,10 @@
 # Who-first
 
-Krótka gra przeglądarkowa dla dwóch osób.
+A short browser game for two people.
 
-Zasady:
+Rules:
 
-Wygrywa gracz, który pierwszy zdobędzie 100 pkt.
-Jeśli, któryś z graczy podczas swojej tury wyrzuci kostkę z numerem 1, traci punkty, które nie zostały "zamrożone", a kolejka przechodzi na kolejną osobę.
-Jeśli uważasz, że uzyskane punkty zadowalają Cię "zamróź" je i oddaj kolejkę koledze, nie ryzykuj!
+Launcher of the player who gets 100 points first. If any player is kicked out of number 1, they lose points that are not "frozen" and the turn is transferred to that person. If you receive points that "freeze" you, give them the turn to a friend without risking it!
 
 ## Demo
 [Who first?](https://r0galkj.github.io/Who-first/)
