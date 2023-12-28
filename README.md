@@ -8,3 +8,5 @@ Launcher of the player who gets 100 points first. If any player is kicked out of
 
 ## Demo
 [Who first?](https://kamiljustynski.github.io/Who-first/)
+
+![screen](https://raw.githubusercontent.com/KamilJustynski/Who-first/main/who-first.png)
